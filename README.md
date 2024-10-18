@@ -395,8 +395,6 @@ Bye.
 
 ## Appendix B: References
 
-Baltimore, C. (2023, September 16). Stack of Books [Photograph].
-
 Comparator Interface in Java with Examples. (n.d.). Retrieved December 10, 2023, from https://www.geeksforgeeks.org/comparator-interface-java/
 
 Java Program to Determine the class of an object. (n.d.). Retrieved December 10, 2023, from https://www.programiz.com/java-programming/examples/get-class-of-object
